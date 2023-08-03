@@ -3,9 +3,25 @@
 
 <br><br>
 
+## Installation
+
+To execute the Python scripts, please consult `scripts/python/requirements.txt` for the required dependencies.
+
+A PostgresSQL Database must be installed with the following credentials:
+``` 
+"host": "localhost",
+"port": 5432,
+"database": "Rockbuster",
+"user": "postgres",
+"password": "1234"
+```
+The database file is located at `data/dvdrentals.tar`
+
+<br><br>
+
 ## Links
 
-[Report](analysis/Final%20Presentation.pdf)
+[Powerpoint Report](analysis/Final%20Presentation.pdf)
 
 [Tableau Repository](https://public.tableau.com/authoring/CareerFoundry_DataAnalytics_3_10_PresentingSQLResults/RevenueRentalCountRate#1)
 
@@ -73,7 +89,9 @@ Wrangled data showing rentals over time.
 
 <br>
 
-`.data / countries_geo.xlsx`: Curated city and country data with added latitude, longitude and regions to city data using googlemaps api and restcountries
+`.data / countries_geo.xlsx`
+
+Curated city and country data with added latitude, longitude and regions to city data using googlemaps api and restcountries
 
 
 
