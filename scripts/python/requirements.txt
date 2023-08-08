@@ -1,0 +1,10 @@
+pywin32
+pandas
+sqlalchemy
+sqlacodegen
+psycopg2
+pyperclip
+googlemaps
+
+# also download the following github repo
+# https://github.com/vmichael89/dataanalysis
