@@ -21,7 +21,7 @@ The database file is located at `data/dvdrentals.tar`
 
 ## Links
 
-[Powerpoint Report](analysis/Final%20Presentation.pdf)
+[Powerpoint Report](report/Final%20Presentation.pdf)
 
 [Tableau Repository](https://public.tableau.com/authoring/CareerFoundry_DataAnalytics_3_10_PresentingSQLResults/RevenueRentalCountRate#1)
 
@@ -104,4 +104,4 @@ Upon delving into the data, I discovered that Rockbuster imposes a **$1 daily fe
 
 ![Overdue fees](images/report_excerpt_fees.png)
 
-For the detailed in-depth analysis refer to the [complete report](analysis/Final%20Presentation.pdf).
+For the detailed in-depth analysis refer to the [complete report](report/Final%20Presentation.pdf).

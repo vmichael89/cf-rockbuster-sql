@@ -7,4 +7,4 @@ pyperclip
 googlemaps
 
 # also download the following github repo
-# https://github.com/vmichael89/dataanalysis
+# https://github.com/vmichael89/databridger
